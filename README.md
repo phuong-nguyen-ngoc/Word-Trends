@@ -12,6 +12,7 @@ To find the N most common words, please run FindCommonWords followed by an integ
 To find the trend of a list of words in different files (only applied for example file), run FindTrends followed by <BaseFilename> <FileNumberBegin> <FileNumberEnd> <Word1> <Word2>. For example, if you run 
     java FindTrends counts_reddit_comments_ 2008 2015 twitter snapchat facebook instagram
 that means you want to look at the trend of the words: twitter, snapchat, facebook, instagram in files counts_reddit_comments_2008.txt upto count_reddit_comments_2015.txt
-  
+ 
+ !<img width="358" alt="image2019-11-18 12_21_48" src="https://user-images.githubusercontent.com/60492418/93058269-5b468980-f699-11ea-9dac-1ca2021c6026.png">
   
 
